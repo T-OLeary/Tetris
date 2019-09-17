@@ -1,2 +1,2 @@
 # Tetris
-Oops
+Tetris game made with C# Windows Forms
